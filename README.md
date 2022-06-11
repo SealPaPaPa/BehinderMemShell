@@ -10,6 +10,10 @@
   * Header中加入 `X-Options-Ai: XXXXX`
   * 密碼 rebeyond
 
+# Update
+* 2022/06/11
+  * 支援 SpringMemshell 的冰蠍功能
+
 # Demo
 * docker build memshell . --no-cache
 * docker run -it memshell
