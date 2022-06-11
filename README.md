@@ -15,7 +15,7 @@
   * 支援 SpringMemshell 的冰蠍功能
 
 # Demo
-* docker build memshell . --no-cache
+* docker build -t memshell . --no-cache
 * docker run -it memshell
 * 訪問 http://172.17.0.2:8080/inject.jsp 觸發注入 MemShell
 * 訪問 http://172.17.0.2:8080/inject.jsp?type=basic&pass=id 檢查是否執行網馬
