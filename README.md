@@ -1,4 +1,4 @@
-# BehinderMemShell
+# JNDIExploit4MemShell
 研究將冰蠍修改為內存馬方式執行。
 
 * Check MemShell
